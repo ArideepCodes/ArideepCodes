@@ -30,13 +30,13 @@
 ## 📊 GitHub Stats
 
 ### 🚀 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArideepCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=octocat&theme=tokyonight&fire=FF6C00&currStreakNum=FF6C00&sideLabels=2023&date_format=M%20j&hide_border=false&ring=FF6C00&dates=2023-01-01%20to%202023-10-05&stroke=FFFFFF&sideNums=FFFFFF&mode=weekly&longestStreakLabel=Longest%20Streak%3A%20277%20days)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArideepCodes&theme=dark&hide_border=false)
 
 ### 📌 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&langs_count=5&hide_border=false&hide_title=false&custom_title=Top%20Languages&include=python,cpp,java,javascript)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArideepCodes&layout=compact&theme=dark&hide_border=false&langs_count=10)
 
 ---
 
@@ -53,3 +53,4 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArideepKanshabanik)
 
 <!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
+
