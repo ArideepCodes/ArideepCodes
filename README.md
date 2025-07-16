@@ -8,9 +8,9 @@
 
 ---
 
-<!-- Snake Game Repo View -->
+<!-- 🐍 GitHub Contribution Snake (Animated) -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ArideepCodes/ArideepCodes/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -30,10 +30,10 @@
 ## 📊 GitHub Stats
 
 ### 🚀 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArideepCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArideepCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArideepCodes&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArideepCodes&theme=dark&hide_border=false&count_private=true&timestamp=202507161800)
 
 ### 📌 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArideepCodes&layout=compact&theme=dark&hide_border=false&langs_count=10)
@@ -51,6 +51,3 @@
 
 ## 💰 Support Me
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArideepKanshabanik)
-
-<!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
-
