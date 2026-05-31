@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;Cloud+%26+AWS+Architect+%E2%98%81%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%9A%80" />
 
 <br/>
 
