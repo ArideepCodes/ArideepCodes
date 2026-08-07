@@ -1,14 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&text=Arideep%20Kanshabanik&fontSize=46&fontAlignY=55&desc=Building%20things%20that%20matter%20%F0%9F%9A%80&descAlignY=75&fontColor=ffffff&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Arideep+Kanshabanik" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=F778BA&center=true&vCenter=true&width=650&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+Shipping%2C+Always+Learning+%F0%9F%93%9A" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%9A%80" />
+<a href="https://www.linkedin.com/in/arideep-kanshabanik">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/greenflaghunyaar">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/arideep.kanshabanik.1">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:arideepkanshabanik@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://paypal.me/ArideepKanshabanik">
+  <img src="https://img.shields.io/badge/Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/Profile%20Views-24%2C819-58a6ff?style=for-the-badge" alt="profile views"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -28,20 +48,13 @@ class Arideep:
 
     def greet(self):
         return "Hey! Let's build something great together 🚀"
+
+me = Arideep()
+print(me.greet())
 ```
 
----
-
-## 🌐 Find Me Online
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arideep-kanshabanik)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/greenflaghunyaar)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arideep.kanshabanik.1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arideepkanshabanik@gmail.com)
-[![PayPal](https://img.shields.io/badge/Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArideepKanshabanik)
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 </div>
 
 ---
@@ -75,6 +88,10 @@ class Arideep:
 
 </div>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,nodejs,express,html,css,mongodb,aws,docker,git,linux&perline=7" />
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -103,6 +120,16 @@ class Arideep:
 ![C++](https://img.shields.io/badge/C++-20%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
+<br/>
+
+![Mon](https://img.shields.io/badge/Mon-●●●●●●●○○○-58a6ff?style=flat-square)
+![Tue](https://img.shields.io/badge/Tue-●●●●●●●●●○-58a6ff?style=flat-square)
+![Wed](https://img.shields.io/badge/Wed-●●●●●●●●●●-238636?style=flat-square)
+![Thu](https://img.shields.io/badge/Thu-●●●●●●●○○○-58a6ff?style=flat-square)
+![Fri](https://img.shields.io/badge/Fri-●●●●●●●●○○-58a6ff?style=flat-square)
+![Sat](https://img.shields.io/badge/Sat-●●●○○○○○○○-30363d?style=flat-square)
+![Sun](https://img.shields.io/badge/Sun-●●●●○○○○○○-30363d?style=flat-square)
+
 </div>
 
 ---
@@ -118,10 +145,11 @@ class Arideep:
 ![Trophy](https://img.shields.io/badge/%F0%9F%8F%86-Follower%C3%97100-gold?style=for-the-badge)
 ![Trophy](https://img.shields.io/badge/%F0%9F%8F%86-Reviewer%C3%97200-gold?style=for-the-badge)
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arideep-kanshabanik&theme=algolia&no-frame=true&row=1&column=7" />
+
 </div>
-
----
-
 
 ---
 
@@ -135,9 +163,19 @@ class Arideep:
 
 ---
 
+## 🎮 Currently Vibing To
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,24&height=120§ion=footer&animation=fadeIn" width="100%"/>
+![Now Playing](https://img.shields.io/badge/🎵_Now_Playing-Blinding_Lights_--_The_Weeknd-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,24&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 **Thanks for stopping by! Drop a ⭐ on anything useful.**
 
